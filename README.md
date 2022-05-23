@@ -1,5 +1,9 @@
 # Random User Generator
 
+`Live Demo:`
+
+https://krownlesskev.github.io/random-user-gen/
+
 This project was developed with `Vue.Js` to help me learn the framework.
 
 In this project I used the Vue.Js CDN to get a quick start on building a small demo.
